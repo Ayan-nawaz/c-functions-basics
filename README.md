@@ -48,4 +48,4 @@ This repository is created for learning and practicing the basic concepts of fun
 
 ## 👨‍💻 Author
 
-**Ayan Nawaz**
+**Ayan Nawaz** 
